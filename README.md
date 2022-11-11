@@ -1,2 +1,3 @@
 # Task-Title-Introduction-to-Javascript-Week-6-and-7
-Assignment
+Link to assignment:   https://week-6-task.eogonor.repl.co/#
+
